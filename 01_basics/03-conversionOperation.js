@@ -24,3 +24,7 @@ let s=33
 let y=String(s);
 console.log(y);
 console.log(typeof y);
+
+let value=3
+let negvalue=-value
+console.log(negvalue);
